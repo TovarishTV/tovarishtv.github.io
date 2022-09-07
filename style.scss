@@ -1,0 +1,9 @@
+$color-primary: red;
+$color-secondary: white;
+$color-accent: yellow;
+
+html, body 
+{
+    background: $color-primary;
+    color: $color-secondary;
+}
